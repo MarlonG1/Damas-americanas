@@ -3,8 +3,6 @@
     <img src="https://img.shields.io/badge/java-18.0-c55e00" alt="Java version">
 </p>
 
-¡Mi proyecto para convertir unidades como temperatura, informacion, peso, distancia y divisas!
-
 ## Descripción
 
 Proyecto de implementación de Damas Americanas en entorno virtual. Lo que buscaba era explorar conceptos de lógica de juego, interacción humano-computadora y programación de juegos. Tanto si eres un entusiasta de la programación como un amante de las Damas, este proyecto ofrece una oportunidad emocionante para estudiar. Busque implementar un diseño simple pero descriptivo.
